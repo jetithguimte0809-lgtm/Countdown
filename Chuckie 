@@ -1,0 +1,67 @@
+
+
+
+
+
+
+{
+  "template_name": "Chuckie Chocolate Milk 15s Text-Only",
+  "video_length": 15,
+  "layers": [
+    {
+      "layer_id": 1,
+      "text": "💭 When I say childhood fave, you KNOW I mean THIS…",
+      "start_time": 0,
+      "end_time": 2,
+      "font": "Montserrat ExtraBold",
+      "size": 48,
+      "color": "#FFD700",
+      "position": "center",
+      "animation": "bounce"
+    },
+    {
+      "layer_id": 2,
+      "text": "🥛 Chuckie chocolate milk… literally my go-to after school snack 😍",
+      "start_time": 2,
+      "end_time": 5,
+      "font": "Comic Neue",
+      "size": 44,
+      "color": "#FFFFFF",
+      "position": "bottom",
+      "animation": "slide-in-left"
+    },
+    {
+      "layer_id": 3,
+      "text": "👶➡️👩 From sipping it as a kid… to still grabbing it as a grown-up!",
+      "start_time": 5,
+      "end_time": 8,
+      "font": "Montserrat ExtraBold",
+      "size": 46,
+      "color": "#FF4500",
+      "position": "center",
+      "animation": "zoom-in"
+    },
+    {
+      "layer_id": 4,
+      "text": "🔥 AND GUESS WHAT? It’s on a CRAZY deal rn — 24 packs for just ₱368 😱",
+      "start_time": 8,
+      "end_time": 12,
+      "font": "Anton",
+      "size": 50,
+      "color": "#FF0000",
+      "position": "center",
+      "animation": "flash"
+    },
+    {
+      "layer_id": 5,
+      "text": "🛒 Stock up before it’s gone! Grab yours now → free shipping included 😎",
+      "start_time": 12,
+      "end_time": 15,
+      "font": "Montserrat ExtraBold",
+      "size": 48,
+      "color": "#00FF00",
+      "position": "bottom",
+      "animation": "shake"
+    }
+  ]
+}
